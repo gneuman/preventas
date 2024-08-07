@@ -1,6 +1,6 @@
-## Postma.io Boilerplate
+## Sistema de Preventas de gnb.mx 
 
-This is the template I used for postma.io and for most of my other projects.
+This is the template I used for gnb.mx and for most of my other projects.
 
 - /app contains the frontend build with Nuxt2, deployed to Vercel.com
 - /server contains the server build with NodeJS/Express, deployed to Render.com
@@ -12,4 +12,4 @@ This is a freeby and I won't give support to set everything up. Enjoy!
 
 
 
-# postmaio-boilerplate
+# Gabriel Neuman
